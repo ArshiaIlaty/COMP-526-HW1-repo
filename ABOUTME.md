@@ -31,8 +31,10 @@
 <br/>
 
 <p>
-An Engineering Intern at Tesla Inc and
-A Graduate student at Unversity of Nevada, Reno.
+PhD Student at the University of California, Irvine, and San Diego State University
+Software Developer at World Mobile Inc.
+Software Engineer Intern at Tesla Inc
+Graduate student at Unversity of Nevada, Reno.
 <br/>
 I have a strong background in statistics and machine learning, and I am able to use my skills to solve complex problems and extract valuable insights from data. I am also proficient in programming languages such as Python, dart, and so on, and I am able to develop custom algorithms, models, and applications to meet specific needs. I am also interested in big data and data engineering, and I am knowledgeable in Hadoop and Spark.
 <br/>  
